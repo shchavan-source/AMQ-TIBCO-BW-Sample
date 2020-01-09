@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>Iteration</name>
+			<value>2</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>true</serviceSettable>
+			<type>Integer</type>
+			<modTime>1574321289068</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>QRequestorQ</name>
+			<value>mytest-queue-b5</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1574321288335</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>ReqQueue</name>
+			<value>mytest-queue-b2</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>true</serviceSettable>
+			<type>String</type>
+			<modTime>1574321288623</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>ResQueue</name>
+			<value>mytest-queue-b3</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>true</serviceSettable>
+			<type>String</type>
+			<modTime>1574321288664</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Sleep</name>
+			<value>10</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>true</serviceSettable>
+			<type>Integer</type>
+			<modTime>1574321288926</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

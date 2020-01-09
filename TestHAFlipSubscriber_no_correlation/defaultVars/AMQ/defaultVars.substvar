@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>LOG_Pswd</name>
+			<value>#!l9qPf3NU8uy4l4pqDu3OJ0VO9MVL9Esq1J24QQ2WVro=</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Password</type>
+			<modTime>1574321289089</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>LOG_URL</name>
+			<value>(tcp://bsoisgapp1amq1a.uat.dbs.com:63216,tcp://bsoisgapp1amq1b.uat.dbs.com:63216)?ha=true&amp;reconnectAttempts=-1&amp;retryInterval=5000&amp;retryIntervalMultiplier=1.0</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1574321289006</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Password</name>
+			<value>#!jtDnpxqGvPdXagTvsJIimUb0rFEn60jRassKr84a6Mc=</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Password</type>
+			<modTime>1574321289048</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>SOI_URL</name>
+			<value>(tcp://bsoisgapp1amq1a.uat.dbs.com:63216,tcp://bsoisgapp1amq1b.uat.dbs.com:63216)?ha=true&amp;reconnectAttempts=-1&amp;retryInterval=5000&amp;retryIntervalMultiplier=1.0</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1574321288897</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

@@ -2,11 +2,11 @@
 ## TestHAFlipPublisher_no_correlation will produce messages on AMQ broker
 ## TestHAFlipSubscriber_no_correlation will consume messages from AMQ broker
 
-** TIBCO BW Designer is required to execute these samples **
+**TIBCO BW Designer is required to execute these samples**
 
 ###### TestHAFlipPublisher_no_correlation
 
-** Following are the set of GV that can be used to configure the producer **
+**Following are the set of GV that can be used to configure the producer**
 
 `AMQ/LOG_URL: AMQ Broker URL`
 `AMQ/SOI_URL: AMQ Broker URL`
@@ -25,7 +25,7 @@ To start the execution of the program, start the Processes/MessageWatcher. This 
 
 ###### TestHAFlipSubscriber_no_correlation
 
-** Following are the set of GV that can be used to configure the producer **
+**Following are the set of GV that can be used to configure the producer**
 
 `AMQ/LOG_URL: AMQ Broker URL`
 `AMQ/SOI_URL: AMQ Broker URL`

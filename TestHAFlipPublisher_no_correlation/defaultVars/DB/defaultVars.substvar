@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>Count</name>
+			<value>500</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1574321273549</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>DbURL</name>
+			<value>jdbc:mariadb:sequential://localhost:4405/load_test?autoReconnect=true&amp;amp;useUnicode=true&amp;amp;characterEncoding=UTF-8</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1574321273726</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>StartID</name>
+			<value>1000</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1574321273769</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>
